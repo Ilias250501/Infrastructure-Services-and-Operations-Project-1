@@ -54,5 +54,4 @@ The environment consists of:
 
 ## Authors
 
-- Ilias Chaoui
-- Samatar
+ Ilias And Samatar
